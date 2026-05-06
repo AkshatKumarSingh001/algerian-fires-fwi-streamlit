@@ -61,8 +61,7 @@ The model expects 9 inputs in this exact order:
 ---
 
 ## Dataset
-If you include the cleaned dataset in the repository, mention it here (for example, `Algerian_forest_fires_dataset_UPDATE.csv`).
-This file is used for training and reproducibility, but it is not required for Streamlit deployment.
+`Algerian_forest_fires_dataset_UPDATE.csv' This file is used for training and reproducibility, but it is not required for Streamlit deployment.
 The dataset was cleaned using exploratory data analysis (EDA) and feature engineering before training.
 
 ---
