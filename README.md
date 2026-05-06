@@ -3,6 +3,8 @@
 A Streamlit web app that predicts the Forest Fire Weather Index (FWI) using a trained Ridge Regression model.
 Users enter environmental conditions and FWI components, and the app returns the predicted FWI value.
 
+**Live App:** https://algerian-fires-fwi-app-h7dvs3qhzkk2azhwjphkqn.streamlit.app/
+
 ---
 
 ## Features
